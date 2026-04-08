@@ -26,6 +26,6 @@ y controlar el stock de manera visual e intuitiva.
 
 ## Cómo ejecutarlo
 
-- Instala dependencias si las hay pip install -r requirements.txt
-- Ejecuta el programa python main.py
+1. Instala dependencias si las hay pip install -r requirements.txt
+2. Ejecuta el programa python main.py
 - Si no se encuentra Python instalado, descargarlo
